@@ -198,6 +198,10 @@ h1 {
     font-family: "ThiccBoi";
 }
 
+.response {
+    width: 70vw;
+}
+
 #logo-uha {
     width: 10vw;
 }
